@@ -10,7 +10,6 @@ It provides the following features;
 * Users can view who will be attending their event
 * Users can search for events based on event location or event category
 
-
 ### Table of Contents
 ---
 
