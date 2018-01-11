@@ -1,0 +1,19 @@
+{
+  "name": "bright_events",
+  "version": "1.0.0",
+  "description": "A platform for event organizers to create and manage different types of events, while making them easily accessible to target markets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LWanjiru/bright_events.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LWanjiru/bright_events/issues"
+  },
+  "homepage": "https://github.com/LWanjiru/bright_events#readme"
+}
