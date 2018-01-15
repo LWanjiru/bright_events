@@ -1,0 +1,8 @@
+body {
+  background-image: url(../images/backgroud.png);
+  padding-top: 100px;
+}
+body > img {
+  height: 80px;
+  width: 80px;
+}
